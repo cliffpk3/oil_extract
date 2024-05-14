@@ -13,15 +13,15 @@ The entire dataset, situation and solutions are completely fictionals and should
 <h4>3.2 Data treatment and cleaning on Python/Pandas;</h4>
 <h4>3.3 Export refined that to .parquet file;</h4>
 <h4>3.4 Load .parquet file into Power BI and create Visual Dashboard with requested features:</h4>
-<h5>Apresentation/Visualization;</h5>
-<h5>Navigation through pages;</h5>
-<h5>Filters cleaning;</h5>
-<h5>Filters by:</h5>
-<h5>a. Field</h5>
-<h5>b. Basin</h5>
-<h5>c. Category</h5>
-<h5>d. State</h5>
-<h5>e. Completion Date (Between)</h5>
+Apresentation/Visualization;
+Navigation through pages;
+Filters cleaning;
+Filters by:
+- Field
+- Basin
+- Category
+- State
+- Completion Date (Between)
 <h4>3.5 Exploratory data analysis using Python;</h4>
 <h4>3.6 Analyze results and draw conclusions</h4>
 
@@ -44,3 +44,4 @@ The number of producting conclusions is higher on Rio Grande do Norte (3.305) an
 
 <h2>6. Conclusion</h2>
 The dashboards provides the possibility to analysis and get valuable insights into oil and gas well performance, locations and situations.
+<img align="center" alt="2_1" src="https://github.com/cliffpk3/oil_extract/blob/main/img/dashboard.png"><img>
