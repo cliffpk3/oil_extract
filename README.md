@@ -14,6 +14,12 @@ The entire dataset, situation and solutions are completely fictionals and should
 Treating data in Python is considerably better than treating it in the Power BI Power M interface, 
 as Python allows for better performance/speed and scalability during data processing.
 
+- Assertive decisions and data treatment:
+<h5>	* Rename and standardize column names, adopting abbreviations according to the data type (DS, NR, SG, etc.);</h5>
+<h5>	* Standardize the first character to uppercase, allowing text standardization;                              </h5>
+<h5>	* The COMPLETION DATE column was changed from datetime to date format;                                      </h5>
+<h5>	* Rows with null data were deleted, as I found the guidance for treating this data confuse.                 </h5>
+
 <h4>3.3 Export refined that to .parquet file;</h4>
 It was chosen to generate a .parquet file instead of a .CSV file due to the significant gain in speed and storage size compared to CSV. 
 Using the .parquet extension allows for more efficient work with large datasets.
@@ -23,11 +29,11 @@ Using the .parquet extension allows for more efficient work with large datasets.
 <h4>- Navigation through pages;   </h4>
 <h4>- Filters cleaning;           </h4>
 <h4>- Filters by:                 </h4>
-<h4>  * Field                     </h4>
-<h4>  * Basin                     </h4>
-<h4>  * Category                  </h4>
-<h4>  * State                     </h4>
-<h4>  * Completion Date (Between) </h4>
+<h4>  	* Field                     </h4>
+<h4>  	* Basin                     </h4>
+<h4>  	* Category                  </h4>
+<h4>  	* State                     </h4>
+<h4>  	* Completion Date (Between) </h4>
 
 <h4>3.5 Create calendar dimension on Power BI:</h4>
 A calendar dimension was created to be used as a reference in Power BI. This practice allows for performance gains in the utilization of time series data.
