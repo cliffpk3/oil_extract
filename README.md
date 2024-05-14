@@ -29,11 +29,11 @@ Using the .parquet extension allows for more efficient work with large datasets.
 <h4>- Navigation through pages;   </h4>
 <h4>- Filters cleaning;           </h4>
 <h4>- Filters by:                 </h4>
-<h4>  	* Field                     </h4>
-<h4>  	* Basin                     </h4>
-<h4>  	* Category                  </h4>
-<h4>  	* State                     </h4>
-<h4>  	* Completion Date (Between) </h4>
+<h5>  	* Field                     </h5>
+<h5>  	* Basin                     </h5>
+<h5>  	* Category                  </h5>
+<h5>  	* State                     </h5>
+<h5>  	* Completion Date (Between) </h5>
 
 <h4>3.5 Create calendar dimension on Power BI:</h4>
 A calendar dimension was created to be used as a reference in Power BI. This practice allows for performance gains in the utilization of time series data.
