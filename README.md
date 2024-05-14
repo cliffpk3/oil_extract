@@ -1,4 +1,4 @@
-![python_charts](https://github.com/cliffpk3/oil_extract/assets/86201991/a632d1f9-ac00-4e9a-b7e0-30b81136f3c9)<h2>1. Business Problem</h2>
+<h2>1. Business Problem</h2>
 Oil Extract is a fictional oil & gas extracting company. 
 The Sector Manager sent an Excel worksheet containing information from the oil & gas area. He would like to understand the strategy for oil production 
 considering the situations of "producing" and "injecting" wells, knowing that there is a relationship between them.
@@ -13,15 +13,16 @@ The entire dataset, situation and solutions are completely fictionals and should
 <h4>3.2 Data treatment and cleaning on Python/Pandas;</h4>
 <h4>3.3 Export refined that to .parquet file;</h4>
 <h4>3.4 Load .parquet file into Power BI and create Visual Dashboard with requested features:</h4>
-- Apresentation/Visualization;
-- Navigation through pages;
-- Filters cleaning;
-- Filters by:
-  * Field
-  * Basin
-  * Category
-  * State
-  * Completion Date (Between)
+<h4>- Apresentation/Visualization;</h4>
+<h4>- Navigation through pages;   </h4>
+<h4>- Filters cleaning;           </h4>
+<h4>- Filters by:                 </h4>
+<h4>  * Field                     </h4>
+<h4>  * Basin                     </h4>
+<h4>  * Category                  </h4>
+<h4>  * State                     </h4>
+<h4>  * Completion Date (Between) </h4>
+ 
 <h4>3.5 Exploratory data analysis using Python;</h4>
 <h4>3.6 Analyze results and draw conclusions</h4>
 
