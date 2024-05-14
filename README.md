@@ -1,4 +1,4 @@
-<h2>1. Business Problem</h2>
+![python_charts](https://github.com/cliffpk3/oil_extract/assets/86201991/a632d1f9-ac00-4e9a-b7e0-30b81136f3c9)<h2>1. Business Problem</h2>
 Oil Extract is a fictional oil & gas extracting company. 
 The Sector Manager sent an Excel worksheet containing information from the oil & gas area. He would like to understand the strategy for oil production 
 considering the situations of "producing" and "injecting" wells, knowing that there is a relationship between them.
@@ -43,5 +43,10 @@ The number of producting conclusions is higher on Rio Grande do Norte (3.305) an
 <h4>5.2 The 1980s to the 1990s were the most productive decades for oil and gas extraction.</h4>
 
 <h2>6. Conclusion</h2>
-The dashboards provides the possibility to analysis and get valuable insights into oil and gas well performance, locations and situations.
-<img align="center" alt="2_1" src="https://github.com/cliffpk3/oil_extract/blob/main/img/dashboard.png"><img>
+The dashboards provides the possibility to analyse and get valuable insights into oil and gas well performance, locations and situations, as well as a deeper look into some features and data values. For further or advanced analyses it could be necessary a direct contact with the client.
+<img align="center" src="https://github.com/cliffpk3/oil_extract/blob/main/img/dashboard.png"><img>
+
+Also, part of the Power BI Dashboard visuals were recreated using Python, mainly Pandas, Matplotlib and Seaborn libraries, as the result can be seen bellow.
+<img align="center" src="https://github.com/cliffpk3/oil_extract/blob/main/img/python_charts.png"><img>
+
+
