@@ -13,15 +13,15 @@ The entire dataset, situation and solutions are completely fictionals and should
 <h4>3.2 Data treatment and cleaning on Python/Pandas;</h4>
 <h4>3.3 Export refined that to .parquet file;</h4>
 <h4>3.4 Load .parquet file into Power BI and create Visual Dashboard with requested features:</h4>
-Apresentation/Visualization;
-Navigation through pages;
-Filters cleaning;
-Filters by:
-- Field
-- Basin
-- Category
-- State
-- Completion Date (Between)
+- Apresentation/Visualization;
+- Navigation through pages;
+- Filters cleaning;
+- Filters by:
+  * Field
+  * Basin
+  * Category
+  * State
+  * Completion Date (Between)
 <h4>3.5 Exploratory data analysis using Python;</h4>
 <h4>3.6 Analyze results and draw conclusions</h4>
 
@@ -43,10 +43,10 @@ The number of producting conclusions is higher on Rio Grande do Norte (3.305) an
 <h4>5.2 The 1980s to the 1990s were the most productive decades for oil and gas extraction.</h4>
 
 <h2>6. Conclusion</h2>
-The dashboards provides the possibility to analyse and get valuable insights into oil and gas well performance, locations and situations, as well as a deeper look into some features and data values. For further or advanced analyses it could be necessary a direct contact with the client.
+The Power BI's Dashboard provides the possibility to analyse and get valuable insights into this specific data about oil and gas well performance, locations and well statuses, as well as a deeper look into some features and data values. For further or advanced analyses it could be necessary an assertive contact with the client.
 <img align="center" src="https://github.com/cliffpk3/oil_extract/blob/main/img/dashboard.png"><img>
 
-Also, part of the Power BI Dashboard visuals were recreated using Python, mainly Pandas, Matplotlib and Seaborn libraries, as the result can be seen bellow.
+Also, part of the Power BI Dashboard visuals were recreated using Python, mainly Pandas, Matplotlib and Seaborn libraries and the result can be seen bellow.
 <img align="center" src="https://github.com/cliffpk3/oil_extract/blob/main/img/python_charts.png"><img>
 
 
