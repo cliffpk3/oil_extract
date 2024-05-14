@@ -9,7 +9,7 @@ based on location, time, and other features about oil and gas wells, basins, and
 The entire dataset, situation and solutions are completely fictionals and should not be related to any real situation.
 
 <h2>3. Solution Strategy</h2>
-<h4>3.1 Load data from XLSX worksheet;</h4>
+<h4>3.1 Load data from XLSX worksheet into Python, using Jupyter Notebook;</h4>
 <h4>3.2 Data treatment and cleaning on Python/Pandas;</h4>
 Treating data in Python is considerably better than treating it in the Power BI Power M interface, 
 as Python allows for better performance/speed and scalability during data processing.
